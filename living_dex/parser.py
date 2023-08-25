@@ -2,8 +2,8 @@ import json
 
 
 def parse_pokemon(file, pokemon):
-    if pokemon["captured"] is False:
-        file.write("%s," % pokemon["id"])
+    if pokemon["captured"] is False and pokemon["shiny"] is False:
+        file.write("+%s," % pokemon["id"])
 
 
 def parse_box(file, box):
@@ -13,7 +13,7 @@ def parse_box(file, box):
 
 def parse_boxes(file, boxes):
     for idx, box in enumerate(boxes):
-        if idx < 31:
+        if idx < 61:
             parse_box(file, box)
 
 
