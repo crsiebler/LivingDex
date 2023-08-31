@@ -1,7 +1,7 @@
 {
   "$id": "cllg23o1z0001kx0fpfs602mf",
   "creationTime": "2023-08-18T03:54:24.084Z",
-  "lastUpdateTime": "2023-08-24T19:36:53.821Z",
+  "lastUpdateTime": "2023-08-31T18:05:36.205Z",
   "gameId": "home",
   "title": "Home - Living Dex",
   "ownerId": "cllg1xzn40002l40fv3scdeu5",
@@ -3018,7 +3018,7 @@
         },
         {
           "id": "xatu",
-          "captured": false,
+          "captured": true,
           "shiny": false,
           "evs": [],
           "ivs": [],
@@ -5652,7 +5652,7 @@
         },
         {
           "id": "illumise",
-          "captured": false,
+          "captured": true,
           "shiny": false,
           "evs": [],
           "ivs": [],
@@ -5706,7 +5706,7 @@
         },
         {
           "id": "wailmer",
-          "captured": false,
+          "captured": true,
           "shiny": false,
           "evs": [],
           "ivs": [],
@@ -9570,7 +9570,7 @@
         },
         {
           "id": "excadrill",
-          "captured": false,
+          "captured": true,
           "shiny": false,
           "evs": [],
           "ivs": [],
@@ -9624,7 +9624,7 @@
         },
         {
           "id": "palpitoad",
-          "captured": false,
+          "captured": true,
           "shiny": false,
           "evs": [],
           "ivs": [],
@@ -9633,7 +9633,7 @@
         },
         {
           "id": "seismitoad",
-          "captured": false,
+          "captured": true,
           "shiny": false,
           "evs": [],
           "ivs": [],
@@ -9951,7 +9951,7 @@
       "pokemon": [
         {
           "id": "swadloon",
-          "captured": false,
+          "captured": true,
           "shiny": false,
           "evs": [],
           "ivs": [],
@@ -9960,7 +9960,7 @@
         },
         {
           "id": "leavanny",
-          "captured": false,
+          "captured": true,
           "shiny": false,
           "evs": [],
           "ivs": [],
@@ -10068,7 +10068,7 @@
         },
         {
           "id": "darumaka",
-          "captured": false,
+          "captured": true,
           "shiny": false,
           "evs": [],
           "ivs": [],
@@ -10077,7 +10077,7 @@
         },
         {
           "id": "darmanitan",
-          "captured": false,
+          "captured": true,
           "shiny": false,
           "evs": [],
           "ivs": [],
@@ -10104,7 +10104,7 @@
         },
         {
           "id": "crustle",
-          "captured": false,
+          "captured": true,
           "shiny": false,
           "evs": [],
           "ivs": [],
@@ -10566,7 +10566,7 @@
         },
         {
           "id": "duosion",
-          "captured": false,
+          "captured": true,
           "shiny": false,
           "evs": [],
           "ivs": [],
@@ -10593,7 +10593,7 @@
         },
         {
           "id": "swanna",
-          "captured": false,
+          "captured": true,
           "shiny": false,
           "evs": [],
           "ivs": [],
@@ -10665,7 +10665,7 @@
         },
         {
           "id": "escavalier",
-          "captured": false,
+          "captured": true,
           "shiny": false,
           "evs": [],
           "ivs": [],
@@ -10701,7 +10701,7 @@
         },
         {
           "id": "jellicent",
-          "captured": false,
+          "captured": true,
           "shiny": false,
           "evs": [],
           "ivs": [],
@@ -10755,7 +10755,7 @@
         },
         {
           "id": "klink",
-          "captured": false,
+          "captured": true,
           "shiny": false,
           "evs": [],
           "ivs": [],
@@ -10764,7 +10764,7 @@
         },
         {
           "id": "klang",
-          "captured": false,
+          "captured": true,
           "shiny": false,
           "evs": [],
           "ivs": [],
@@ -11127,7 +11127,7 @@
         },
         {
           "id": "chandelure",
-          "captured": false,
+          "captured": true,
           "shiny": false,
           "evs": [],
           "ivs": [],
@@ -12765,7 +12765,7 @@
         },
         {
           "id": "tyrantrum",
-          "captured": false,
+          "captured": true,
           "shiny": false,
           "evs": [],
           "ivs": [],
@@ -13281,7 +13281,7 @@
         },
         {
           "id": "dartrix",
-          "captured": false,
+          "captured": true,
           "shiny": false,
           "evs": [],
           "ivs": [],
@@ -13335,7 +13335,7 @@
         },
         {
           "id": "brionne",
-          "captured": false,
+          "captured": true,
           "shiny": false,
           "evs": [],
           "ivs": [],
@@ -13344,7 +13344,7 @@
         },
         {
           "id": "primarina",
-          "captured": false,
+          "captured": true,
           "shiny": false,
           "evs": [],
           "ivs": [],
@@ -13896,7 +13896,7 @@
         },
         {
           "id": "bewear",
-          "captured": false,
+          "captured": true,
           "shiny": false,
           "evs": [],
           "ivs": [],
@@ -13968,7 +13968,7 @@
         },
         {
           "id": "golisopod",
-          "captured": false,
+          "captured": true,
           "shiny": false,
           "evs": [],
           "ivs": [],
@@ -15099,7 +15099,7 @@
         },
         {
           "id": "wooloo",
-          "captured": false,
+          "captured": true,
           "shiny": false,
           "evs": [],
           "ivs": [],
@@ -15108,7 +15108,7 @@
         },
         {
           "id": "dubwool",
-          "captured": false,
+          "captured": true,
           "shiny": false,
           "evs": [],
           "ivs": [],
@@ -15660,7 +15660,7 @@
         },
         {
           "id": "obstagoon",
-          "captured": false,
+          "captured": true,
           "shiny": false,
           "evs": [],
           "ivs": [],
