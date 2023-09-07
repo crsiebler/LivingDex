@@ -3,7 +3,7 @@ import json
 
 def parse_pokemon(file, pokemon):
     if pokemon["captured"] is False and pokemon["shiny"] is False:
-        file.write("+%s," % pokemon["id"])
+        file.write("%s," % pokemon["id"])
 
 
 def parse_box(file, box):
